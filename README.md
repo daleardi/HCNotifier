@@ -1,1 +1,1 @@
-# HCNotifier
+# email-bot
