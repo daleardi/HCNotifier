@@ -1,0 +1,23 @@
+{
+  "name": "email-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git:jengel/email-bot.git"
+  },
+  "author": "",
+  "dependencies": {
+    "express": "4.13.3",
+    "body-parser": "1.14.2",
+    "mongoose": "4.3.6",
+    "nodemailer": "2.0.0",
+    "documentdb": "1.5.1",
+    "async": "1.5.2"
+  },
+  "license": "ISC"
+}
